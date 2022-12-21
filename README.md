@@ -1,6 +1,6 @@
 ### Hello World  👋  I'm Elvis. 
-I'm a web developer living in Los Angeles, CA.
+I'm a web developer from Los Angeles.
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and React. 
-- 👯 I’m looking to connect with other like minded people.
+- 👯 I’m open to collaborate on projects.
 - 📫 How to reach me: Just send me a message!
