@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and React. 
 - 👯 I’m open to collaborate on web development projects.
-- 
 - 📫 How to reach me: Just send me a message!
 
 ### :floppy_disk: Projects
