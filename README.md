@@ -1,17 +1,6 @@
 ### Hello World 👋 I'm Elvis. 
-I'm a self taught web developer.
+I'm a web developer living in Los Angeles, CA.
 
-<!--
-**darthelvis7/darthelvis7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on React projects
-- 🌱 I’m currently learning JavaScript and React. 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and React. 
+- 👯 I’m looking to connect with other like minded people.
+- 📫 How to reach me: Just send me a message!
