@@ -1,4 +1,4 @@
-### Hello World 👋 I'm Elvis. 
+### Hello World  👋  I'm Elvis. 
 I'm a web developer living in Los Angeles, CA.
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and React. 
