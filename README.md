@@ -1,4 +1,4 @@
-## Hello World :earth_americas: I'm Elvis 
+## Hello world :earth_americas: I'm Elvis 
 #### I'm a web developer from Los Angeles.
 
 - 🌱 I’m currently learning HTML, CSS, JavaScript, and React. 
