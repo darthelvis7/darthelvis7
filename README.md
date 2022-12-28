@@ -6,9 +6,7 @@
 - 📫 How to reach me: Just send me a message!
 
 ### :floppy_disk: Projects
-- Ecommerce Website
-- Quote Generator
-- Todo List
+- Coming Soon!
 
 ### :mortar_board: Education
 - Zero to Mastery: Complete Web Developer Course
